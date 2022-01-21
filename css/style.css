@@ -1,0 +1,29 @@
+
+.container{
+    border-radius: 20px;
+}
+.panda-bg-info{
+    background-color: red ;
+}
+.panda-bg-success{
+    background-color: #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.watch-color{
+    background-color: orange;
+}
+.bag-color{
+    background-color:#da70d6;
+}
+.shoe-color{
+    background-color: #0000ff;
+}
+.btn-color{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.footer-bg{
+    background-color: #fceae8;
+}
